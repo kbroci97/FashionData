@@ -1,23 +1,23 @@
-Brand,Product Name,Full Price (USD),Sale Price (USD)
-Cult Gaia,Harlow Knit Minidress,498,249
-Mac Duggal,Embellished Grid Sheath Slip Gown,398,398
-Amsale,Duchess Satin Sheath Dress,355,355
-Prada,Asymmetrical Satin Crepe Dress,3800,3800
-Likely,Cameron Feather & Crystal Minidress,398,398
-Acler,Trusley Pleated One-Shoulder Maxi Dress,695,486.50
-Dress The Population,Alondra Blouson Dress,149,149
-Chiara Boni La Petite Robe,Gosia One-Shoulder Gown,995,995
-Norma Kamali,Asymmetric Strapless Lamé Gown,195,195
-Amsale,Strapless Silk Faille Bow Dress,385,385
-SIMKHAI,Arie Strapless Bustier Midi-Dress,575,230
-SIMKHAI,McCall Crocheted Long-Sleeve Minidress,845,845
-SIMKHAI,Lace Appliqué A-Line Minidress,895,895
-Likely,Hara Dress,228,228
-Amsale,Mikado Off-The-Shoulder Shift Dress,385,385
-Norma Kamali,Strapless Side Slit Column Gown,160,160
-Amsale,Duchesse Satin Strapless Dress,385,385
-Norma Kamali,Diana Fringed Fishtail Gown,295,295
-Alexia María,Ella Silk Faille Bow Minidress,1125,1125
+Brand,Product Name,Full Price (USD),Sale Price (USD),Image URL
+Cult Gaia,Harlow Knit Minidress,498,249,https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=600&fit=crop
+Mac Duggal,Embellished Grid Sheath Slip Gown,398,398,https://images.unsplash.com/photo-1566479179814-8463c273e4b?w=400&h=600&fit=crop
+Amsale,Duchess Satin Sheath Dress,355,355,https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=600&fit=crop
+Prada,Asymmetrical Satin Crepe Dress,3800,3800,https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?w=400&h=600&fit=crop
+Likely,Cameron Feather & Crystal Minidress,398,398,https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=600&fit=crop
+Acler,Trusley Pleated One-Shoulder Maxi Dress,695,486.50,https://images.unsplash.com/photo-1566479179814-8463c273e4b?w=400&h=600&fit=crop
+Dress The Population,Alondra Blouson Dress,149,149,https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=600&fit=crop
+Chiara Boni La Petite Robe,Gosia One-Shoulder Gown,995,995,https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?w=400&h=600&fit=crop
+Norma Kamali,Asymmetric Strapless Lamé Gown,195,195,https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=600&fit=crop
+Amsale,Strapless Silk Faille Bow Dress,385,385,https://images.unsplash.com/photo-1566479179814-8463c273e4b?w=400&h=600&fit=crop
+SIMKHAI,Arie Strapless Bustier Midi-Dress,575,230,https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=600&fit=crop
+SIMKHAI,McCall Crocheted Long-Sleeve Minidress,845,845,https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?w=400&h=600&fit=crop
+SIMKHAI,Lace Appliqué A-Line Minidress,895,895,https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=600&fit=crop
+Likely,Hara Dress,228,228,https://images.unsplash.com/photo-1566479179814-8463c273e4b?w=400&h=600&fit=crop
+Amsale,Mikado Off-The-Shoulder Shift Dress,385,385,https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=600&fit=crop
+Norma Kamali,Strapless Side Slit Column Gown,160,160,https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?w=400&h=600&fit=crop
+Amsale,Duchesse Satin Strapless Dress,385,385,https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=600&fit=crop
+Norma Kamali,Diana Fringed Fishtail Gown,295,295,https://images.unsplash.com/photo-1566479179814-8463c273e4b?w=400&h=600&fit=crop
+Alexia María,Ella Silk Faille Bow Minidress,1125,1125,https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=600&fit=crop
 A.L.C.,Inez Satin Halter Dress,495,495
 Likely,Marullo Dress,298,298
 Amsale,Rose Fil Coupe Fit-&-Flare Dress,495,495
