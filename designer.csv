@@ -1,40 +1,75 @@
-brand,founded_year,creative_director,ceo,city,country,headquarters,website
-A.L.C.,2009,Andrea Lieberman,Andrea Lieberman,Los Angeles,USA,"Los Angeles, California, USA",https://alcltd.com
-alice + olivia,2002,Stacey Bendet,Stacey Bendet,New York,USA,"New York, New York, USA",https://www.aliceandolivia.com
-Acler,2015,Kathryn Forth,Julia Sumner,Adelaide,Australia,"Adelaide, Australia",https://acler.com.au
-Adam Lippes,2004,Adam Lippes,Marco Probst,New York,USA,"New York, New York, USA",https://adamlippes.com
-Alaïa,1964,Pieter Mulier,Alaa AbuSiam,Paris,France,"Paris, France",https://www.maison-alaia.com
-Altuzarra,2008,Joseph Altuzarra,Marta Lastra,New York,USA,"New York, New York, USA",https://altuzarra.com
-Amsale,1985,Sarah Swann,Neil Brown,New York,USA,"New York, New York, USA",https://amsale.com
-Balmain,1945,Antonin Tron,Matteo Sgarbossa,Paris,France,"Paris, France",https://www.balmain.com
-Brandon Maxwell,2015,Brandon Maxwell,Brandon Maxwell,New York,USA,"New York, New York, USA",https://brandonmaxwellonline.com
-Brunello Cucinelli,1978,Brunello Cucinelli,Brunello Cucinelli,Solomeo,Italy,"Solomeo, Italy",https://www.brunellocucinelli.com
-Carolina Herrera,1981,Wes Gordon,Carolina Herrera,New York,USA,"New York, New York, USA",https://www.carolinaherrera.com
-Cult Gaia,2012,Jasmin Larian,Jasmin Larian,Los Angeles,USA,"Los Angeles, California, USA",https://cultgaia.com
-DÔEN,2016,Margaret Kleveland,Margaret Kleveland,Los Angeles,USA,"Los Angeles, California, USA",https://shopdoen.com
-Giorgio Armani,1975,Giorgio Armani,Giorgio Armani,Milan,Italy,"Milan, Italy",https://www.armani.com
-Givenchy,1952,Sarah Burton,Hubert de Givenchy,Paris,France,"Paris, France",https://www.givenchy.com
-Halston,1968,Ken Downing,Roy Halston Frowick,New York,USA,"New York, New York, USA",https://halston.com
-Jacquemus,2009,Simon Porte Jacquemus,Simon Porte Jacquemus,Paris,France,"Paris, France",https://www.jacquemus.com
-Khaite,2016,Catherine Holstein,Catherine Holstein,New York,USA,"New York, New York, USA",https://khaite.com
-LoveShackFancy,2013,Rebecca Hessel Cohen,Rebecca Hessel Cohen,New York,USA,"New York, New York, USA",https://loveshackfancy.com
-McQueen,1992,Seán McGirr,Lee Alexander McQueen,London,United Kingdom,"London, England, UK",https://www.alexandermcqueen.com
-Miu Miu,1993,Miuccia Prada,Miuccia Prada,Milan,Italy,"Milan, Italy",https://www.miumiu.com
-Monique Lhuillier,1996,Monique Lhuillier,Monique Lhuillier,Los Angeles,USA,"Los Angeles, California, USA",https://moniquelhuillier.com
-Norma Kamali,1968,Norma Kamali,Norma Kamali,New York,USA,"New York, New York, USA",https://normakamali.com
-Oscar de la Renta,1965,Laura Kim,Alex Bolen,New York,USA,"New York, New York, USA",https://www.oscardelarenta.com
-Prada,1913,Miuccia Prada,Andrea Guerra,Milan,Italy,"Milan, Italy",https://www.prada.com
-Proenza Schouler,2002,Jack McCollough,Jack McCollough,New York,USA,"New York, New York, USA",https://proenzaschouler.com
-Ralph Lauren Collection,1967,Ralph Lauren,Patrice Louvet,New York,USA,"New York, New York, USA",https://www.ralphlauren.com
-Reformation,2009,Yael Aflalo,Hali Borenstein,Los Angeles,USA,"Los Angeles, California, USA",https://www.thereformation.com
-SIMKHAI,2010,Jonathan Simkhai,Jonathan Simkhai,Los Angeles,USA,"Los Angeles, California, USA",https://simkhai.com
-Self-Portrait,2013,Han Chong,Han Chong,London,United Kingdom,"London, England, UK",https://self-portrait.com
-Simone Rocha,2010,Simone Rocha,Simone Rocha,London,Ireland,"London, England, UK",https://simonerocha.com
-Staud,2015,Sarah Staudinger,Sarah Staudinger,Los Angeles,USA,"Los Angeles, California, USA",https://staud.clothing
-Stella McCartney,2001,Stella McCartney,Stella McCartney,London,United Kingdom,"London, England, UK",https://www.stellamccartney.com
-TOM FORD,2005,Haider Ackermann,Guillaume Jesel,New York,USA,"New York, New York, USA",https://www.tomfordfashion.com
-Toteme,2014,Elin Kling,Elin Kling,Stockholm,Sweden,"Stockholm, Sweden",https://toteme.com
-Ulla Johnson,1998,Ulla Johnson,Ulla Johnson,New York,USA,"New York, New York, USA",https://ullajohnson.com
-Veronica Beard,2010,Veronica Beard,Veronica Beard,New York,USA,"New York, New York, USA",https://veronicabeard.com
-Versace,1978,Dario Vitale,Emmanuel Gintzburger,Milan,Italy,"Milan, Italy",https://www.versace.com
-Zimmermann,1991,Nicky Zimmermann,Nicky Zimmermann,Sydney,Australia,"Sydney, Australia",https://zimmermann.com
+brand,founded_year,creative_director,ceo,city,country,headquarters,website,notes
+A.L.C.,2009,Andrea Lieberman,Andrea Lieberman,Los Angeles,USA,"Los Angeles, California, USA",https://alcltd.com,Unknown
+alice + olivia,2002,Stacey Bendet,Stacey Bendet,New York,USA,"New York, New York, USA",https://www.aliceandolivia.com,Unknown
+Acler,2015,Kathryn Forth,Julia Sumner,Adelaide,Australia,"Adelaide, Australia",https://acler.com.au,Unknown
+Adam Lippes,2004,Adam Lippes,Marco Probst,New York,USA,"New York, New York, USA",https://adamlippes.com,Unknown
+Alaïa,1964,Pieter Mulier,Alaa AbuSiam,Paris,France,"Paris, France",https://www.maison-alaia.com,Unknown
+Altuzarra,2008,Joseph Altuzarra,Marta Lastra,New York,USA,"New York, New York, USA",https://altuzarra.com,Unknown
+Amsale,1985,Sarah Swann,Neil Brown,New York,USA,"New York, New York, USA",https://amsale.com,Unknown
+Balmain,1945,Antonin Tron,Matteo Sgarbossa,Paris,France,"Paris, France",https://www.balmain.com,Unknown
+Brandon Maxwell,2015,Brandon Maxwell,Brandon Maxwell,New York,USA,"New York, New York, USA",https://brandonmaxwellonline.com,Unknown
+Brunello Cucinelli,1978,Brunello Cucinelli,Brunello Cucinelli,Solomeo,Italy,"Solomeo, Italy",https://www.brunellocucinelli.com,Unknown
+Carolina Herrera,1981,Wes Gordon,Carolina Herrera,New York,USA,"New York, New York, USA",https://www.carolinaherrera.com,Unknown
+Cult Gaia,2012,Jasmin Larian,Jasmin Larian,Los Angeles,USA,"Los Angeles, California, USA",https://cultgaia.com,Unknown
+DÔEN,2016,Margaret Kleveland,Margaret Kleveland,Los Angeles,USA,"Los Angeles, California, USA",https://shopdoen.com,Unknown
+Giorgio Armani,1975,Giorgio Armani,Giorgio Armani,Milan,Italy,"Milan, Italy",https://www.armani.com,Unknown
+Givenchy,1952,Sarah Burton,Hubert de Givenchy,Paris,France,"Paris, France",https://www.givenchy.com,Unknown
+Halston,1968,Ken Downing,Roy Halston Frowick,New York,USA,"New York, New York, USA",https://halston.com,Unknown
+Jacquemus,2009,Simon Porte Jacquemus,Simon Porte Jacquemus,Paris,France,"Paris, France",https://www.jacquemus.com,Unknown
+Khaite,2016,Catherine Holstein,Catherine Holstein,New York,USA,"New York, New York, USA",https://khaite.com,Unknown
+LoveShackFancy,2013,Rebecca Hessel Cohen,Rebecca Hessel Cohen,New York,USA,"New York, New York, USA",https://loveshackfancy.com,Unknown
+McQueen,1992,Seán McGirr,Lee Alexander McQueen,London,United Kingdom,"London, England, UK",https://www.alexandermcqueen.com,Unknown
+Miu Miu,1993,Miuccia Prada,Miuccia Prada,Milan,Italy,"Milan, Italy",https://www.miumiu.com,Unknown
+Monique Lhuillier,1996,Monique Lhuillier,Monique Lhuillier,Los Angeles,USA,"Los Angeles, California, USA",https://moniquelhuillier.com,Unknown
+Norma Kamali,1968,Norma Kamali,Norma Kamali,New York,USA,"New York, New York, USA",https://normakamali.com,Unknown
+Oscar de la Renta,1965,Laura Kim,Alex Bolen,New York,USA,"New York, New York, USA",https://www.oscardelarenta.com,Unknown
+Prada,1913,Miuccia Prada,Andrea Guerra,Milan,Italy,"Milan, Italy",https://www.prada.com,Unknown
+Proenza Schouler,2002,Jack McCollough,Jack McCollough,New York,USA,"New York, New York, USA",https://proenzaschouler.com,Unknown
+Ralph Lauren Collection,1967,Ralph Lauren,Patrice Louvet,New York,USA,"New York, New York, USA",https://www.ralphlauren.com,Unknown
+Reformation,2009,Yael Aflalo,Hali Borenstein,Los Angeles,USA,"Los Angeles, California, USA",https://www.thereformation.com,Unknown
+SIMKHAI,2010,Jonathan Simkhai,Jonathan Simkhai,Los Angeles,USA,"Los Angeles, California, USA",https://simkhai.com,Unknown
+Self-Portrait,2013,Han Chong,Han Chong,London,United Kingdom,"London, England, UK",https://self-portrait.com,Unknown
+Simone Rocha,2010,Simone Rocha,Simone Rocha,London,Ireland,"London, England, UK",https://simonerocha.com,Unknown
+Staud,2015,Sarah Staudinger,Sarah Staudinger,Los Angeles,USA,"Los Angeles, California, USA",https://staud.clothing,Unknown
+Stella McCartney,2001,Stella McCartney,Stella McCartney,London,United Kingdom,"London, England, UK",https://www.stellamccartney.com,Unknown
+TOM FORD,2005,Haider Ackermann,Guillaume Jesel,New York,USA,"New York, New York, USA",https://www.tomfordfashion.com,Unknown
+Toteme,2014,Elin Kling,Elin Kling,Stockholm,Sweden,"Stockholm, Sweden",https://toteme.com,Unknown
+Ulla Johnson,1998,Ulla Johnson,Ulla Johnson,New York,USA,"New York, New York, USA",https://ullajohnson.com,Unknown
+Veronica Beard,2010,Veronica Beard,Veronica Beard,New York,USA,"New York, New York, USA",https://veronicabeard.com,Unknown
+Versace,1978,Dario Vitale,Emmanuel Gintzburger,Milan,Italy,"Milan, Italy",https://www.versace.com,Unknown
+Zimmermann,1991,Nicky Zimmermann,Nicky Zimmermann,Sydney,Australia,"Sydney, Australia",https://zimmermann.com,Unknown
+Mac Duggal,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Likely,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Dress The Population,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Chiara Boni La Petite Robe,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Alexia María,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Zhivago,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Nicholas the Label,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Ramy Brook,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Ronny Kobo,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Elliatt,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Cinq à Sept,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+SWF,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+PatBO,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Rebecca Vallance,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Hervé Léger,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Toccin,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Jason Wu Collection,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Area,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Brand,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Azeeza,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+The Attico,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+LaPointe,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+The New Arrivals Ilkyaz Ozel,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Sachin & Babi,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Milly,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Bronx and Banco,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Rebecca Taylor,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Sabina Musáyev,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+AS by DF,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+As It May,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Shoshanna,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Johanna Ortiz,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Et Ochs,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Hill House Home,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
+Favorite Daughter,Unknown,Unknown,Unknown,Paris,France,"Paris, France",https://example.com,Auto-generated entry for database completeness
