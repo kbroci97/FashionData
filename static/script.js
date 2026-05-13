@@ -11,18 +11,24 @@ async function loadDresses() {
         card.className = 'card';
 
         card.innerHTML = `
-            <img src="${dress.image_url}" />
-
             <div class="card-content">
+
                 <h2>${dress.product_name}</h2>
 
-                <p>${dress.brand}</p>
+                <p class="brand">${dress.brand}</p>
 
-                <p class="price">$${dress.sale_price}</p>
+                <p class="price">
+                    Sale Price: $${dress.sale_price_usd}
+                </p>
+
+                <p class="full-price">
+                    Full Price: $${dress.full_price_usd}
+                </p>
 
                 <button onclick="showDetails(${dress.id})">
                     View Details
                 </button>
+
             </div>
         `;
 
@@ -40,21 +46,25 @@ async function showDetails(id) {
     const body = document.getElementById('modal-body');
 
     body.innerHTML = `
-        <img class="detail-image" src="${dress.image_url}" />
 
         <h1>${dress.product_name}</h1>
 
         <h2>${dress.brand}</h2>
 
-        <p class="price">Sale Price: $${dress.sale_price}</p>
+        <p class="price">
+            Sale Price: $${dress.sale_price_usd}
+        </p>
 
-        <p class="price">Full Price: $${dress.full_price}</p>
+        <p class="full-price">
+            Full Price: $${dress.full_price_usd}
+        </p>
 
         <hr>
 
         <h2>Designer Information</h2>
 
-        <p><strong>CEO:</strong> ${dress.ceo || 'N/A'}</p>
+        <p><strong>CEO:</strong>
+        ${dress.ceo || 'N/A'}</p>
 
         <p><strong>Creative Director:</strong>
         ${dress.creative_director || 'N/A'}</p>
@@ -79,6 +89,7 @@ document.getElementById('close-btn').addEventListener('click', () => {
 
 
 window.addEventListener('click', (event) => {
+
     const modal = document.getElementById('modal');
 
     if (event.target === modal) {

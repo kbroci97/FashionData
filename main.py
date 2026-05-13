@@ -13,7 +13,6 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row
     return conn
 
-
 @app.get("/")
 def home():
     return FileResponse("static/index.html")
@@ -27,12 +26,13 @@ def get_dresses():
     dresses = conn.execute(
         '''
         SELECT
-            dresses.id,
-            dresses."Product Name" as product_name,
-            dresses.Brand as brand,
-            dresses."Sale Price (USD)" as sale_price,
-            dresses."Full Price (USD)" as full_price,
-            dresses."Image URL" as image_url
+            rowid as id,
+            product_name,
+            brand,
+            sale_price_usd,
+            full_price_usd,
+            image_url
+
         FROM dresses
         '''
     ).fetchall()
@@ -50,21 +50,25 @@ def get_dress(dress_id: int):
     dress = conn.execute(
         '''
         SELECT
-            dresses.id,
-            dresses."Product Name" as product_name,
-            dresses.Brand as brand,
-            dresses."Sale Price (USD)" as sale_price,
-            dresses."Full Price (USD)" as full_price,
-            dresses."Image URL" as image_url,
+            dresses.rowid as id,
+            dresses.product_name,
+            dresses.brand,
+            dresses.sale_price_usd,
+            dresses.full_price_usd,
 
-            designers.*
+            designers.ceo,
+            designers.creative_director,
+            designers.founded_year,
+            designers.country,
+            designers.headquarters,
+            designers.website
 
         FROM dresses
 
         LEFT JOIN designers
-        ON dresses.designer_id = designers.id
+        ON LOWER(dresses.brand) = LOWER(designers.brand)
 
-        WHERE dresses.id = ?
+        WHERE dresses.rowid = ?
         ''',
         (dress_id,)
     ).fetchone()
