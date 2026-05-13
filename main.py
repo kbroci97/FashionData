@@ -93,6 +93,9 @@ def get_dress(dress_id: int):
 
     conn.close()
 
+    if dress is None:
+        return {"error": "Dress not found"}
+
     return dict(dress)
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
